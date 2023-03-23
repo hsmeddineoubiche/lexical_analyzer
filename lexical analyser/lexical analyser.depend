@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1671634714 source:c:\users\houssam\desktop\clang\lexical analyser\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
